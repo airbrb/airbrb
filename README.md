@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @airbrb
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning ... yes...
-- 💞️ I’m looking to collaborate on ... nothing
+- 💞️ I’m looking to collaborate on ... nothing yet
 - 📫 How to reach me? Here works ig or fb/twt
 
 <!---
